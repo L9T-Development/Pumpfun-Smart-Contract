@@ -8,4 +8,4 @@ You can check the tx to Remove vitual LP and Create Raydium Pool in this smart c
 https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet
 </br>
 In fact, in this project, set creating LP FEE as 5% of Reserves.
-### If you have some questions, ask @Tr1030109 in Telegram and 0xapp123 in Discord
+### If you have some questions, ask here: [@shiny0103](https://t.me/shiny0103)
