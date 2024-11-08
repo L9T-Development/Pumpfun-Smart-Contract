@@ -9,4 +9,8 @@ https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28Tx
 </br>
 In fact, in this project, set creating LP FEE as 5% of Reserves.
 
+### Live url
+[pumpfun fork: ape.lol](https://app.ape.lol/)
+
+
 ### If you have some questions, ask here: [@shiny0103](https://t.me/shiny0103)
