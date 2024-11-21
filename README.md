@@ -1,5 +1,5 @@
 # Pumpfun-Smart-Contract
-Pumpfun smart contract with the Rust/Anchor - Add virtual LP, remove LP, create Raydium Pool.
+Pumpfun smart contract with the Rust/Anchor - Add virtual LP, remove LP, create Raydium Pool(Pump.fun forking).
 
 ### Please use it and give me star and follow me on github.
 
