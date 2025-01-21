@@ -20,6 +20,12 @@
   
   In fact, in this project, set creating LP FEE as 5% of Reserves.
 
+## Another Versions
+
+  - [Similar with original pump.fun](https://solscan.io/account/BCdbBhYrRfd17MBGeompteXDgoBFxgnfQh2NkdgJQk5w?cluster=devnet)
+
+  - [Pumpfun + spl NFT](https://solscan.io/account/4m3GTSWQ6AUvvF4PmdiYd1Nsq4sFdLaq5n9jdQrzCBBM?cluster=devnet)
+
 ## Live url
 
   [pumpfun fork: ape.lol](https://app.ape.lol/)
