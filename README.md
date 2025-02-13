@@ -1,6 +1,11 @@
 # Pumpfun-Smart-Contract
   Pumpfun smart contract with the Rust/Anchor - Add virtual LP, remove LP, create Raydium Pool(Pump.fun forking).
 
+## Contact
+
+  If you wanna build more better, contact here: [Telegram](https://t.me/shiny0103)
+
+
 ## Related repository
   You can check frontend and backend repo in my github as well.
   
@@ -32,7 +37,16 @@
 
   [pumpfun forking redesign](https://agents.land/)
 
+## Update result
 
-## Contact
+  - Fee distribution
 
-  If you wanna build more better, contact here: [@shiny0103](https://t.me/shiny0103)
+    Users can set buy/sell fee and they will receive half fee as well.
+
+    Like this, i can distribute fee dev team and user or any other options and it will be more great for token safety.
+
+    Tx: https://solscan.io/tx/4e25Sv3rDS9rqb9pXyoYwHRtXhnteTGZCGyrchcPwHoKFCNVS2v2aEy6UVXqHQDnVxsCSuBgK2DUcg3NmHizM1b1?cluster=devnet
+
+    <a href="https://ibb.co/j9M7GvBR"><img src="https://i.ibb.co/j9M7GvBR/buy-viper.png" alt="buy-viper" border="0"></a>
+
+  - Contract Addr: https://solscan.io/account/AyptQDLRDKRQmi6KzxMyGKcmA8AEcgPzYCmoHBnGui3z?cluster=devnet
