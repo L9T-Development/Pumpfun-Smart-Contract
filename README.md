@@ -25,19 +25,21 @@
   
   In fact, in this project, set creating LP FEE as 5% of Reserves.
 
-## Another Versions
+### Another Versions
 
-  - [Similar with original pump.fun](https://solscan.io/account/BCdbBhYrRfd17MBGeompteXDgoBFxgnfQh2NkdgJQk5w?cluster=devnet)
+  - Similar with original pump.fun contract address: `https://solscan.io/account/BCdbBhYrRfd17MBGeompteXDgoBFxgnfQh2NkdgJQk5w?cluster=devnet`
 
-  - [Pumpfun + spl NFT](https://solscan.io/account/4m3GTSWQ6AUvvF4PmdiYd1Nsq4sFdLaq5n9jdQrzCBBM?cluster=devnet)
+  - Pumpfun + spl NFT contract address: `https://solscan.io/account/4m3GTSWQ6AUvvF4PmdiYd1Nsq4sFdLaq5n9jdQrzCBBM?cluster=devnet`
 
-## Live url
+### Live url
 
-  [pumpfun + spl nft](https://viper.m8s.us)
+  1. [pumpfun forking redesign](https://agents.land/)
+  
+  2. [pumpfun + spl nft](https://256btc.com)
 
-  [pumpfun forking redesign](https://agents.land/)
-
-## Update result
+  3. [Multi language version](https://geng.one)
+     
+### Update result
 
   - Fee distribution
 
