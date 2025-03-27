@@ -4,6 +4,8 @@
 
   New updated version: migrate to Pumpfun AMM pool and support token 2022 and fee distribution.
 
+  Ongoing updated version: Swap on **PumpSwap**(private)
+
 ## Contact
 
   If you wanna build more better, contact here: [Telegram](https://t.me/shiny0103)
