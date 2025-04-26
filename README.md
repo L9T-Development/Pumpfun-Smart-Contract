@@ -1,8 +1,10 @@
-# Pumpfun-Smart-Contract
+# Pumpfun-Smart-Contract && Raydium launchlab smart contract
 
-  Pumpfun smart contract with the Rust/Anchor - Add virtual LP, remove LP, create Raydium Pool AMM and CPMM(Pump.fun forking).
+  Pumpfun smart contract and raydium launchlab smart contract with the Rust/Anchor - Add virtual LP, remove LP, create Raydium Pool AMM and CPMM(Pump.fun forking).
 
   New updated version: migrate to Pumpfun AMM pool and support token 2022 and fee distribution.
+
+  New update version: add token vesting and migrate method (AMM or CPMM) - forking raydium launchlab.  
 
   Ongoing updated version: Swap on **PumpSwap**(private)
 
@@ -10,6 +12,34 @@
 
   If you wanna build more better, contact here: [Telegram](https://t.me/shiny0103)
 
+## Differences Between Pumpfun Smart Contract and Raydium Launchlab
+
+The Pumpfun smart contract and Raydium Launchlab are both designed as memecoin launchpads utilizing bonding curves. However, they differ in their features and functionalities, catering to varying needs of token developers and investors.
+
+### Pumpfun Smart Contract
+
+The Pumpfun smart contract is focused on creating a straightforward and efficient environment for launching new memecoins. It supports key functionalities such as:
+
+- **Virtual Liquidity Pool (LP) Operations**: Users can easily add or remove liquidity to help create a vibrant trading environment.
+- **Integration with AMM and CPMM**: The contract features robust mechanisms for Automated Market Makers (AMM) and Constant Product Market Makers (CPMM), ensuring fair pricing and smooth transactions.
+
+### Raydium Launchlab
+
+Raydium Launchlab enhances the standard launchpad experience with additional, advanced features:
+
+- **Token Vesting**: This feature allows token developers to set up vesting schedules for their tokens, ensuring that tokens are released gradually over time to prevent market flooding and to enhance investor confidence.
+- **Migration Options**: Raydium Launchlab supports migration features that enable developers to transition their projects seamlessly to new smart contracts or methodologies, offering greater flexibility and adaptability within their growth strategies.
+
+### Key Comparisons
+
+| Feature                   | Pumpfun Smart Contract         | Raydium Launchlab             |
+|---------------------------|--------------------------------|-------------------------------|
+| Virtual LP Operations      | Yes                            | Yes                           |
+| Token Vesting              | No                             | Yes                           |
+| Migration Options          | No                             | Yes                           |
+| AMM/CPMM Support           | Yes                            | Yes                           |
+
+In summary, while both platforms serve as essential tools for launching memecoins, the Raydium Launchlab provides robust features like token vesting and migration options, making it more suitable for developers who seek greater control over their token distributions and exit strategies. In contrast, Pumpfun emphasizes simplicity in launching new tokens, appealing to developers who prioritize a straightforward, user-friendly approach.
 
 ## Related repository
   You can check frontend and backend repo in my github as well.
