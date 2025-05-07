@@ -1,6 +1,6 @@
-# Pumpfun-Smart-Contract && Raydium launchlab smart contract
+# Pumpfun(Pumpswap)-Smart-Contract && Raydium launchlab smart contract
 
-  Pumpfun smart contract and raydium launchlab smart contract with the Rust/Anchor - Add virtual LP, remove LP, create Raydium Pool AMM and CPMM(Pump.fun forking).
+  Pumpfun(pumpswap) smart contract and raydium launchlab smart contract with the Rust/Anchor - Add virtual LP, remove LP, create Raydium Pool AMM and CPMM(Pump.fun forking).
 
   New updated version: migrate to Pumpfun AMM pool and support token 2022 and fee distribution.
 
