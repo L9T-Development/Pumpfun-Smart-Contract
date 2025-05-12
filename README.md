@@ -10,7 +10,7 @@
 
 ## Contact
 
-  If you wanna build more better, contact here: [Telegram](https://t.me/shiny0103)
+  If you wanna build more better, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
 
 ## Differences Between Pumpfun Smart Contract and Raydium Launchlab
 
