@@ -10,7 +10,7 @@
 
 ## Contact
 
-  If you wanna build more better, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan333)
+  If you wanna build more better, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xMurkX)
 
 ## Differences Between Pumpfun Smart Contract and Raydium Launchlab
 
@@ -44,9 +44,9 @@ In summary, while both platforms serve as essential tools for launching memecoin
 ## Related repository
   You can check frontend and backend repo in my github as well.
   
-  [Pumpfun Backend repo](https://github.com/0xTan1319/Pump-Fun-Backend)
+  [Pumpfun Backend repo](https://github.com/0xMurk/Pump-Fun-Backend)
   
-  [Pumpfun Frontend repo](https://github.com/0xTan1319/Pump-Fun-FE)
+  [Pumpfun Frontend repo](https://github.com/0xMurk/Pump-Fun-FE)
 
 ## Contribution
 
